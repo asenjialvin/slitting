@@ -1,0 +1,1 @@
+ALTER TYPE public.combination_source ADD VALUE IF NOT EXISTS 'curated';
